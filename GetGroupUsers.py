@@ -5,7 +5,7 @@ import numpy as np
 
 # Задание 2
 # Авторизация
-session = vk.Session(access_token='f0f2b33bf0f2b33bf0f2b33b9df0893517ff0f2f0f2b33b92d74fb0844ac48767702dab')
+session = vk.Session(access_token='')
 vkapi = vk.API(session, v='5.81')
 
 
